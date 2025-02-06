@@ -1,0 +1,7 @@
+node_modules
+
+src/trasFile.ts
+
+.env
+
+package-lock.json
